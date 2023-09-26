@@ -1,10 +1,10 @@
-site_name: KlipperScreen
+site_name: KlipperScreen-Tweaked
 site_url: https://klipperscreen.readthedocs.io
 site_description: >-
   KlipperScreen documentation.
 
-repo_name: KlipperScreen/KlipperScreen/
-repo_url: https://github.com/KlipperScreen/KlipperScreen/
+repo_name: TheDanzilla/KlipperScreen-Tweaked/
+repo_url: https://github.com/TheDanzilla/KlipperScreen-Tweaked
 nav:
     - Home: index.md
     - Setup:
@@ -70,7 +70,5 @@ markdown_extensions:
 extra:
     social:
       - icon: fontawesome/brands/github
-        link: https://github.com/KlipperScreen/KlipperScreen/
-      - icon: fontawesome/brands/discord
-        link: https://discord.klipper3d.org/
-      - icon: fontawesome/brands/python
+        link: https://github.com/TheDanzilla/KlipperScreen-Tweaked
+      
